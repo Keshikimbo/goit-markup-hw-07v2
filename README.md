@@ -1,2 +1,2 @@
-# goit-markup-hw-07v2
- 
+# goit-markup-hw-07ver03
+renamed with bem
